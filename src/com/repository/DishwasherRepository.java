@@ -7,5 +7,5 @@ public interface DishwasherRepository {
 
     void addDishwasher(Dishwasher dishwasher);
     void removeDishwasher(Dishwasher dishwasher);
-    DishwasherList getAllDishwasher();
+    DishwasherList getAllDishwashers();
 }
